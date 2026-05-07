@@ -266,6 +266,20 @@ npm run dev
 
 ---
 
+![Dashboard Page](https://github.com/rupeshgupta5532/Project-Management-System-Assignment-Project/blob/main/backend/src/assets/dashboard.png)
+
+![Task Creation Page](https://github.com/rupeshgupta5532/Project-Management-System-Assignment-Project/blob/main/backend/src/assets/createTask.png)
+
+![Project Page](https://github.com/rupeshgupta5532/Project-Management-System-Assignment-Project/blob/main/backend/src/assets/projects_page.png)
+
+![Profile Page](https://github.com/rupeshgupta5532/Project-Management-System-Assignment-Project/blob/main/backend/src/assets/profile_page.png)
+
+![SignUp Page](https://github.com/rupeshgupta5532/Project-Management-System-Assignment-Project/blob/main/backend/src/assets/signup_page.png)
+
+![Login Page](https://github.com/rupeshgupta5532/Project-Management-System-Assignment-Project/blob/main/backend/src/assets/login.png)
+
+
+
 
 
 
